@@ -1,12 +1,10 @@
-`docker build -t rails-getting-started .`
-
-# Install
+## Install
 
 ```sh
 make compose-setup
 ```
 
-# Run
+## Run
 
 ```sh
 make compose
